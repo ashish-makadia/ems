@@ -1,0 +1,527 @@
+table.row-loopbox {
+    width: 100%;
+}
+
+table.row-loopbox:nth-child(odd) {
+    background-color: #04a0ab;
+}
+
+table.row-loopbox:nth-child(even) {
+    background-color: #00cad8;
+}
+
+.middle-section table#quotes-listings-for-requirement th {
+    background-color: #098088;
+    color: #fff;
+    font-size: 15px;
+    border-right: 1px solid #dcdcdc;
+    border-bottom: 1px solid #dcdcdc;
+}
+
+.middle-section table#quotes-listings-for-requirement {
+    margin-bottom: 0;
+}
+
+table#quotes-listings-for-requirement tr th, table.row-loopbox tr td {
+    width: 7%;
+}
+
+table#quotes-listings-for-requirement tr th:nth-child(2n), table.row-loopbox tr td:nth-child(2n) {
+    width: 30%;
+}
+
+table#quotes-listings-for-requirement tr th:nth-child(3n), table.row-loopbox tr td:nth-child(3n), table#quotes-listings-for-requirement tr th:nth-child(4n), table.row-loopbox tr td:nth-child(4n), table#quotes-listings-for-requirement tr th:nth-child(5n), table.row-loopbox tr td:nth-child(5n) {
+    width: 13%;
+    text-align: center !important;
+}
+
+table.row-loopbox tr td span {
+    display: inline-block;
+}
+
+table.row-loopbox tr td a {
+    margin-right: 10px;
+}
+
+table.row-loopbox tr td {
+    border-right: 1px solid #e0e0e0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+table.row-loopbox:nth-child(even) td {
+    color: #fff;
+}
+
+table.row-loopbox:nth-child(even) td a,
+table.row-loopbox:nth-child(odd) td a{
+    color: #fff;
+    text-decoration: underline;
+}
+
+table.row-loopbox:nth-child(even) td a:hover,
+table.row-loopbox:nth-child(odd) td a:hover{
+    text-decoration: none;
+}
+
+table.row-loopbox:nth-child(odd) td,table.row-loopbox:nth-child(odd) td a {
+    color: #fff;
+}
+
+table.row-loopbox:nth-child(even) .input-group-prepend span.input-group-text {
+    background-color: #137177 !important;
+    border-color: #137177 !important;
+    color: #fff !important;
+}
+
+table.row-loopbox:nth-child(odd) .input-group-prepend span.input-group-text {
+    background-color: #00cad8 !important;
+    border-color: #00cad8 !important;
+    color: #fff !important;
+}
+
+table.row-loopbox td{
+    font-size: 15px;
+}
+
+table.row-loopbox .input-group .form-control {
+    padding: 0 10px;
+}
+.middle-section table#quotes-listings-for-requirement th:first-child, .middle-section table.row-loopbox td:first-child {
+    text-align: center;
+}
+
+table.row-loopbox tr td:nth-child(2n) {
+    text-align: right;
+}
+
+table.row-loopbox tr td:nth-child(2n) a {
+    float: left;
+    text-align: left;
+}
+
+table.row-loopbox tr:last-child {
+    background-color: #3c3838;
+}
+
+table.row-loopbox tr:last-child td {
+    font-weight: bold;
+}
+
+.middle-section table#quotes-listings-for-requirement th,
+.middle-section table.row-loopbox td{
+    vertical-align: top;
+}
+
+table.row-loopbox.update-rowsbox tr:last-child {
+    background-color: #e0e0e0;
+}
+
+table.row-loopbox.update-rowsbox tr.update-bgcolor {
+    background-color: #3c3838;
+    font-weight: bold;
+}
+table.row-loopbox .input-group .form-control:focus {
+    border: 1px solid #fff;
+}
+
+span.select2.select2-container.select2-container--default{
+    width: 100% !important;
+}
+span.select2.select2-container.select2-container--default input.select2-search__field {
+    width: 100% !important;
+}
+div#cruise_listings_wrapper th.cruise_action {
+    width: 100px !important;
+}
+button.m-portlet__nav-link.btn.m-btn.m-btn--hover-brand.m-btn--icon.m-btn--icon-only.m-btn--pill.delete-confirmation {
+    margin-top: -2px;
+}
+.gallery12 img {
+    width: 95;
+    margin-right: 20px;
+    margin-top: 6px;
+}
+.gallery_img {
+    width: 100px;
+    float: left;
+    margin: 2px;
+    position: relative;
+    margin-right: 5px;
+}
+.gallery_images {
+    width: 100%;
+}
+span.delete_email {
+    display: block;
+    position: relative;
+    margin-top: 15px;
+}
+a.remove_email {
+position: absolute;
+right: 100%;
+top: 50%;
+transform: translateY(-50%);
+margin-right: 10px;
+}
+
+
+
+
+img.csrc {
+    float: right;
+    max-width: 100px;
+}   
+/*===========Cruise-Booking===========*/
+
+
+table#cruisebooking tr td:last-child {
+    text-align: center;
+}
+
+table#cruisebooking tr td:last-child a {
+    text-decoration: none;
+}
+
+form.cancel-form {
+    display: inline-block;
+}
+
+button.cancel.cancelclick {
+    color: #FF0000;
+    margin-right: 10px;
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+
+button.cancel.cancelclick:hover {
+    color: #8B0000;
+}
+
+a.refund.refundbtn {
+    margin-right: 10px;
+}
+
+table#cruisebooking tr td:last-child a i::before {
+    font-weight: 600;
+}
+/*===========Offline-Cruise-Booking===========*/
+
+form#shipcompany_booking_form {
+    background: #F5EFDF;
+}
+
+form#shipcompany_booking_form h1.offline-title {
+    color: #7a7a7a;
+    font-weight: 600;
+    text-transform: capitalize;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+form#shipcompany_booking_form .m-form__section.m-form__section--first.clearfix {
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group {
+    width: 52%;
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group label.col-form-label {
+    color: #7a7a7a;
+    font-weight: 600;
+    padding-bottom: 6px;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group.row.payment-mode,
+form#shipcompany_booking_form .form-group.m-form__group.row.booking-note,
+form#shipcompany_booking_form .form-group.m-form__group.row.adult-info {
+    width: 103%;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group.row input.form-control.m-input,
+form#shipcompany_booking_form .form-group.m-form__group.row select.form-control.m-input,
+form#shipcompany_booking_form .form-group.m-form__group.row textarea.form-control.m-input {
+    border: 2px solid #DCD7CA;
+    color: #000;
+    font-weight: 500;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group.row input.form-control.m-input:focus,
+form#shipcompany_booking_form .form-group.m-form__group.row select.form-control.m-input:focus,
+form#shipcompany_booking_form .form-group.m-form__group.row textarea.form-control.m-input:focus {
+    border-color: #767676;
+    border-radius: 4px;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group.row textarea.form-control.m-input {
+    min-height: 100px;
+}
+
+form#shipcompany_booking_form .modal-footer .m-form__actions {
+    padding-top: 0;
+}
+
+form#shipcompany_booking_form .accordion {
+    display: block;
+    appearance: none;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    width: 100%;
+    text-align: left;
+    padding: 8px 10px 8px 15px;
+    background-color: #DCD7CA;
+    cursor: pointer;
+}
+
+form#shipcompany_booking_form .accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+form#shipcompany_booking_form .accordion.active:after {
+    content: "\2212";
+}
+
+.panel {
+    display: none;
+}
+
+form#shipcompany_booking_form .panel {
+    padding: 0 15px;
+    background-color: white;
+    transition: max-height 0.2s ease-out;
+}
+
+.accordion.active + input + .panel,
+.accordion.active + .panel {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+form#shipcompany_booking_form .display-adult-block,
+form#shipcompany_booking_form .display-child-block {
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+form#shipcompany_booking_form .full-width {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+form#shipcompany_booking_form .form-group.m-form__group.row.one-three {
+    width: 35.333%;
+}
+.datepicker {
+    z-index: 1050 !important;
+}
+
+.append_meal_count input {
+    border: 2px solid #DCD7CA;
+    color: #000;
+    font-weight: 500;
+    display: block;
+    width: 200px;
+    height: calc(2.95rem + 2px);
+    padding: .85rem 1.15rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    -webkit-transition: border-color 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+}
+.extra_items_price input {
+    border: 2px solid #DCD7CA;
+    color: #000;
+    font-weight: 500;
+    display: block;
+    width: 200px;
+    height: calc(2.95rem + 2px);
+    padding: .85rem 1.15rem;
+    font-size: 1rem;
+    line-height: 1.25;
+    background-color: #fff;
+    background-clip: padding-box;
+    border-radius: .25rem;
+    -webkit-transition: border-color 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out,-webkit-box-shadow 0.15s ease-in-out;
+}
+
+.parent_meal_class {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.parent_meal_class:last-child {
+    margin-bottom: 0;
+}
+
+.parent_meal_class .m-checkbox-list.ui-sortable-handle {
+    margin-right: 15px;
+    margin-top: 0;
+    min-width: 92px;
+}
+
+.parent_meal_class label {
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+}
+.parent_extritems_class {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.parent_extritems_class:last-child {
+    margin: 5px 0;
+}
+
+.parent_extritems_class .m-checkbox-list.ui-sortable-handle {
+    margin-right: 15px;
+    margin-top: 0;
+    min-width: 20%;
+}
+
+.parent_extritems_class label {
+    margin-bottom: 0 !important;
+    padding-bottom: 0;
+}
+
+.extra_items_price {
+    display: flex;
+    width: 80%;
+}
+
+.extra_items_price input,
+.extra_items_price > div {
+    width: 24%;
+    margin-right: 5px;
+}
+
+.extra_items_price > div input {
+    width: 100%;
+}
+
+.extra_items_price > div input {
+    margin: 0;
+}
+
+
+/*===========Offline-Cruise-Booking-end===========*/
+
+@media(max-width:1023px){
+    .middle-section table#quotes-listings-for-requirement th,
+    table.row-loopbox td{
+        font-size: 14px;
+    }
+    table.row-loopbox .input-group .form-control{
+        padding: 0 5px;
+        font-size: 12px;
+    }
+    table#quotes-listings-for-requirement tr th:nth-child(3n), table.row-loopbox tr td:nth-child(3n), table#quotes-listings-for-requirement tr th:nth-child(4n), table.row-loopbox tr td:nth-child(4n), table#quotes-listings-for-requirement tr th:nth-child(5n), table.row-loopbox tr td:nth-child(5n){
+        width: 21%;
+    }
+    table#quotes-listings-for-requirement tr th:nth-child(2n), table.row-loopbox tr td:nth-child(2n) {
+        width: 25%;
+    }
+}
+
+@media(max-width:760px){
+    table#quotes-listings-for-requirement tr th, table.row-loopbox tr td,
+    table#quotes-listings-for-requirement tr th:nth-child(2n), table.row-loopbox tr td:nth-child(2n),
+    table#quotes-listings-for-requirement tr th:nth-child(3n), table.row-loopbox tr td:nth-child(3n), table#quotes-listings-for-requirement tr th:nth-child(4n), table.row-loopbox tr td:nth-child(4n), table#quotes-listings-for-requirement tr th:nth-child(5n), table.row-loopbox tr td:nth-child(5n){
+        width: auto;
+    }
+    .middle-section table#quotes-listings-for-requirement th:first-child, .middle-section table.row-loopbox td:first-child{
+        text-align: left;
+    }
+    table.row-loopbox tr td {
+        padding: 10px 10px;
+        background-color: transparent;
+    }
+    table.row-loopbox tr td:before {
+        float: left;
+        width: 50%;
+        color: #000;
+        text-align: left;
+        background-color: transparent;
+        color: #fff;
+        font-weight: normal;        
+    }
+    table.row-loopbox:nth-child(even) {
+        background-color: transparent;
+    }
+    table.row-loopbox tr td:nth-child(2n) {
+        text-align: left;
+    }
+    table#quotes-listings-for-requirement tr th:nth-child(3n), table.row-loopbox tr td:nth-child(3n), table#quotes-listings-for-requirement tr th:nth-child(4n), table.row-loopbox tr td:nth-child(4n), table#quotes-listings-for-requirement tr th:nth-child(5n), table.row-loopbox tr td:nth-child(5n){
+        text-align: left !important;
+    }
+    .middle-section table.row-loopbox td .input-group {
+        width: 50%;
+    }
+    .middle-section tr {
+        border: 0px solid #ddd;
+        
+    }
+    .middle-section tr + tr {
+        margin-top: 0px;;
+    }
+    
+    table.row-loopbox tr:nth-child(odd) {
+        background-color: #26bcc5;
+    }
+    
+    table.row-loopbox tr{
+        margin-bottom: 0px;
+    }
+
+    table.row-loopbox tr:nth-child(even) {
+        background-color: #0f9ca5;
+    }
+    table.row-loopbox tr td:first-child {
+        display: none;
+    }
+
+    table.row-loopbox tr:first-child td:first-child {
+        display: block;
+    }
+    table.row-loopbox tr:last-child {
+        background-color: #3c3838;
+    }
+    table.row-loopbox{
+        margin-bottom: 10px;   
+    }
+    .middle-section table#quotes-listings-for-requirement th, table.row-loopbox td{
+        font-size: 12px;
+    }
+    table.row-loopbox tr td:nth-child(2n) a{
+        float: none;
+    }
+    .m-portlet .m-portlet__head{
+        padding: 0 10px;
+    }
+    .m-portlet .m-portlet__body{
+        padding: 10px;
+    }
+
+
+}

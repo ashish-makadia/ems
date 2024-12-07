@@ -1,0 +1,33 @@
+.required {
+  color: red;
+}
+.gallery_images {
+    width: 100%;
+}
+.gallery_img {
+    width: 100px;
+    float: left;
+    margin: 2px;
+    position: relative;
+    margin-right: 5px;
+}
+.gallery_del {
+    position: absolute;
+    top: -3px;
+    right: 36px;
+    z-index: 99;
+    color: #fff;
+    font-family: arial;
+    cursor: pointer;
+    background: red;
+    border-radius: 50%;
+    width: 13px;
+    text-align: center;
+    vertical-align: bottom;
+    padding-top: 0px;
+    font-size: 10px;
+    font-weight: bold;
+}
+ul.nav.nav-tabs.m-tabs-line {
+    padding-left: 30px;
+}

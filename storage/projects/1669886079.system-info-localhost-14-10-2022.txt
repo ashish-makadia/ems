@@ -1,0 +1,138 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+ 
+== Server Environment ==
+	Operating System: WINNT
+	Software: Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.4.7
+	MySQL version: mariadb.org binary distribution v10.4.13
+	PHP Version: 7.4.7
+	PHP Memory Limit: 512M
+	PHP Max Input Vars: 1000
+	PHP Max Post Size: 40M
+	GD Installed: Yes
+	ZIP Installed: Yes
+	Write Permissions: All right
+	Elementor Library: Not connected (HTTP Error (403))
+
+== WordPress Environment ==
+	Version: 6.0.2
+	Site URL: http://localhost/wordpress
+	Home URL: http://localhost/wordpress
+	WP Multisite: No
+	Max Upload Size: 40 MB
+	Memory limit: 40M
+	Max Memory limit: 512M
+	Permalink Structure: /%postname%/
+	Language: en-US
+	Timezone: 0
+	Admin Email: makadiaashish46@gmail.com
+	Debug Mode: Inactive
+
+== Theme ==
+	Name: Twenty Twenty
+	Version: 2.0
+	Author: the WordPress team
+	Child Theme: No
+
+== User ==
+	Role: administrator
+	WP Profile lang: en_US
+	User Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+
+== Active Plugins ==
+	Bolier Demo Crud
+		Version: 1.0.0
+		Author: Ashish
+
+	Classic Editor
+		Version: 1.6.2
+		Author: WordPress Contributors
+
+	CRUD Plugin
+		Version: 
+		Author: Ashish Makadia
+
+	Elementor
+		Version: 3.9.0-dev2
+		Author: Elementor.com
+
+	EventPlugin
+		Version: 4
+		Author: 
+
+	My Test Plugin
+		Version: 1.10.3
+		Author: John Smith
+
+	SaFly Curl Patch
+		Version: 1.0.0
+		Author: SaFly Organization
+
+	Shortcode
+		Version: 1.1
+		Author: 
+
+	Smart Slider 3
+		Version: 3.5.1.9
+		Author: Nextend
+
+	WooCommerce
+		Version: 7.0.0
+		Author: Automattic
+
+
+== Must-Use Plugins ==
+	Elementor Safe Mode
+		Version: 1.0.0
+		Author: Elementor.com
+
+
+== Elementor Experiments ==
+	Optimized DOM Output: Active
+	Improved Asset Loading: Active
+	Improved CSS Loading: Active
+	Inline Font Icons: Active
+	Accessibility Improvements: Active
+	Additional Custom Breakpoints: Active
+	Import Export Website Kit: Active
+	Hide native WordPress widgets from search results: Active
+	admin_menu_rearrangement: Inactive by default
+	Flexbox Container: Active
+	Landing Pages: Active
+	Color Sampler: Active
+	Favorite Widgets: Active
+	Admin Top Bar: Active
+
+
+== Log ==
+	
+Log: showing 7 of 72022-10-14 16:47:23 [info] Elementor data updater process has been queued. [array (
+  'plugin' => 'Elementor',
+  'from' => '3.7.7',
+  'to' => '3.9.0-dev2',
+)]
+2022-10-14 16:47:24 [info] elementor::elementor_updater Started 
+2022-10-14 16:47:24 [info] Elementor/Upgrades - _on_each_version Start  
+2022-10-14 16:47:24 [info] Elementor/Upgrades - _on_each_version Finished 
+2022-10-14 16:47:24 [info] Elementor/Upgrades - _v_3_8_0_fix_php8_image_custom_size Start  
+2022-10-14 16:47:24 [info] Elementor/Upgrades - _v_3_8_0_fix_php8_image_custom_size Finished 
+2022-10-14 16:47:24 [info] Elementor data updater process has been completed. [array (
+  'plugin' => 'Elementor',
+  'from' => '3.7.7',
+  'to' => '3.9.0-dev2',
+)]
+
+JS: showing 1 of 1JS: 2022-10-14 18:36:35 [error X 2][http://localhost/wordpress/wp-content/plugins/elementor/assets/js/editor.min.js?ver=3.9.0-dev2:3:874548] elementorFrontend is not defined 
+
+PHP: showing 1 of 1PHP: 2022-10-14 18:39:42 [warning X 2][D:\xampp\htdocs\wordpress\wp-content\plugins\elementor\modules\safe-mode\module.php::125] rmdir(D:\xampp\htdocs\wordpress/wp-content/mu-plugins): No such file or directory [array (
+  'trace' => '
+#0: Elementor\Core\Logger\Manager -> shutdown()
+',
+)]
+
+
+
+== Elementor - Compatibility Tag ==
+	
+

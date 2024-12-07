@@ -1,0 +1,902 @@
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=329&first_name=Noman&last_name=Bhavanagari&company=&email=vijay.solanki%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A2%3A%7Bi%3A9095%3Bi%3A1%3Bi%3A9110%3Bi%3A1%3B%7D&adults=1&children=0&cruise_id=76&wp_cruise_id=8654&cabin_type_id=363&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=73&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=10.00&cart_price=140.00&total_extra_items_price=130.00&total_price=140.00&created=2021-06-15%2006%3A35%3A35&woo_order_id=9425&woo_status=processing&adults_info=%5B%7B%22first_adult_name%22%3A%22Bhavanagari%22%2C%22last_adult_name%22%3A%22Bhavanagari%22%7D%5D&children_info=null&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundaryeRmHfX6dnJrJLqQV
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   fbd21578-a842-f289-b309-b8a6534a8e3a
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"329","first_name":"Noman","last_name":"Bhavanagari","company":null,"email":"vijay.solanki@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:2:{i:9095;i:1;i:9110;i:1;}","adults":"1","children":"0","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"363","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"73","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"10.00","cart_price":"140.00","total_extra_items_price":"130.00","total_price":"140.00","created":"2021-06-15 06:35:35","woo_order_id":"9425","woo_status":"processing","adults_info":"[{\"first_adult_name\":\"Bhavanagari\",\"last_adult_name\":\"Bhavanagari\"}]","children_info":"null","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=329&first_name=Noman&last_name=Bhavanagari&company=&email=vijay.solanki%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A2%3A%7Bi%3A9095%3Bi%3A1%3Bi%3A9110%3Bi%3A1%3B%7D&adults=1&children=0&cruise_id=76&wp_cruise_id=8654&cabin_type_id=363&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=73&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=10.00&cart_price=140.00&total_extra_items_price=130.00&total_price=140.00&created=2021-06-15%2006%3A35%3A35&woo_order_id=9425&woo_status=processing&adults_info=%5B%7B%22first_adult_name%22%3A%22Bhavanagari%22%2C%22last_adult_name%22%3A%22Bhavanagari%22%7D%5D&children_info=null&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundarytA61yrkj6MPcPZCg
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   591515b2-9c20-f993-6b49-9ee8a8efd136
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"329","first_name":"Noman","last_name":"Bhavanagari","company":null,"email":"vijay.solanki@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:2:{i:9095;i:1;i:9110;i:1;}","adults":"1","children":"0","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"363","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"73","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"10.00","cart_price":"140.00","total_extra_items_price":"130.00","total_price":"140.00","created":"2021-06-15 06:35:35","woo_order_id":"9425","woo_status":"processing","adults_info":"[{\"first_adult_name\":\"Bhavanagari\",\"last_adult_name\":\"Bhavanagari\"}]","children_info":"null","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=329&first_name=Noman&last_name=Bhavanagari&company=&email=vijay.solanki%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A2%3A%7Bi%3A9095%3Bi%3A1%3Bi%3A9110%3Bi%3A1%3B%7D&adults=1&children=0&cruise_id=30&wp_cruise_id=8654&cabin_type_id=363&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=73&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=10.00&cart_price=140.00&total_extra_items_price=130.00&total_price=140.00&created=2021-06-15%2006%3A35%3A35&woo_order_id=9425&woo_status=processing&adults_info=%5B%7B%22first_adult_name%22%3A%22Bhavanagari%22%2C%22last_adult_name%22%3A%22Bhavanagari%22%7D%5D&children_info=null&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundary4YYZYItDmajOLBct
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   06e77852-80d3-eaa6-9653-15bb8789337a
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"329","first_name":"Noman","last_name":"Bhavanagari","company":null,"email":"vijay.solanki@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:2:{i:9095;i:1;i:9110;i:1;}","adults":"1","children":"0","cruise_id":"30","wp_cruise_id":"8654","cabin_type_id":"363","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"73","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"10.00","cart_price":"140.00","total_extra_items_price":"130.00","total_price":"140.00","created":"2021-06-15 06:35:35","woo_order_id":"9425","woo_status":"processing","adults_info":"[{\"first_adult_name\":\"Bhavanagari\",\"last_adult_name\":\"Bhavanagari\"}]","children_info":"null","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=329&first_name=Noman&last_name=Bhavanagari&company=&email=vijay.solanki%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A2%3A%7Bi%3A9095%3Bi%3A1%3Bi%3A9110%3Bi%3A1%3B%7D&adults=1&children=0&cruise_id=30&wp_cruise_id=8654&cabin_type_id=363&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=73&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=10.00&cart_price=140.00&total_extra_items_price=130.00&total_price=140.00&created=2021-06-15%2006%3A35%3A35&woo_order_id=9425&woo_status=processing&adults_info=%5B%7B%22first_adult_name%20%22%3A%22%20Bhavanagari%22%2C%22last_adult_name%22%3A%22%20Bhavanagari%22%7D%5D&children_info=null&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundaryLlJ3RFB1ndWjXWll
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   3e522a5f-772c-4a94-683b-51868409daa3
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"329","first_name":"Noman","last_name":"Bhavanagari","company":null,"email":"vijay.solanki@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:2:{i:9095;i:1;i:9110;i:1;}","adults":"1","children":"0","cruise_id":"30","wp_cruise_id":"8654","cabin_type_id":"363","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"73","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"10.00","cart_price":"140.00","total_extra_items_price":"130.00","total_price":"140.00","created":"2021-06-15 06:35:35","woo_order_id":"9425","woo_status":"processing","adults_info":"[{\"first_adult_name \":\" Bhavanagari\",\"last_adult_name\":\" Bhavanagari\"}]","children_info":"null","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=334&first_name=Maulik&last_name=Makawana&company=&email=noman.bhavnagari%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A1%3A%7Bi%3A10164%3Bi%3A1%3B%7D&adults=2&children=2&cruise_id=76&wp_cruise_id=8654&cabin_type_id=337&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=36&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=40.00&cart_price=360.00&total_extra_items_price=320.00&total_price=360.00&created=2021-06-16%2007%3A36%3A29&woo_order_id=10446&woo_status=processing&adults_info=[{\%22first_adult_name\%22:\%22Maulik\%22,\%22last_adult_name\%22:\%22Makawana\%22},{\%22first_adult_name\%22:\%22Trushal\%22,\%22last_adult_name\%22:\%22Makawana\%22}]&children_info=[{\%22first_child_name\%22:\%22Bhaumisha\%22,\%22last_child_name\%22:\%22Patel\%22},{\%22first_child_name\%22:\%22Twinkal\%22,\%22last_child_name\%22:\%22Koradiya\%22}]&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundaryuh1Vgh901bxHl4FL
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   b30717cf-f389-d36f-8e54-b3505c54de93
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"334","first_name":"Maulik","last_name":"Makawana","company":null,"email":"noman.bhavnagari@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:1:{i:10164;i:1;}","adults":"2","children":"2","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"337","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"36","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"40.00","cart_price":"360.00","total_extra_items_price":"320.00","total_price":"360.00","created":"2021-06-16 07:36:29","woo_order_id":"10446","woo_status":"processing","adults_info":"[{\\\"first_adult_name\\\":\\\"Maulik\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"},{\\\"first_adult_name\\\":\\\"Trushal\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"}]","children_info":"[{\\\"first_child_name\\\":\\\"Bhaumisha\\\",\\\"last_child_name\\\":\\\"Patel\\\"},{\\\"first_child_name\\\":\\\"Twinkal\\\",\\\"last_child_name\\\":\\\"Koradiya\\\"}]","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=334&first_name=Maulik&last_name=Makawana&company=&email=noman.bhavnagari%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A1%3A%7Bi%3A10164%3Bi%3A1%3B%7D&adults=2&children=2&cruise_id=76&wp_cruise_id=8654&cabin_type_id=337&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=36&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=40.00&cart_price=360.00&total_extra_items_price=320.00&total_price=360.00&created=2021-06-16%2007%3A36%3A29&woo_order_id=10446&woo_status=processing&adults_info=[{%22first_adult_name%22:%22Maulik%22,%22last_adult_name%22:%22Makawana%22},{%22first_adult_name%22:%22Trushal%22,%22last_adult_name%22:%22Makawana%22}]&children_info=[{%22first_child_name%22:%22Bhaumisha%22,%22last_child_name%22:%22Patel%22},{%22first_child_name%22:%22Twinkal%22,%22last_child_name%22:%22Koradiya%22}]&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundary28Xx8h8UblbtIovN
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   af18daac-6a10-784a-ae59-a3ccc7c7b6e0
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"334","first_name":"Maulik","last_name":"Makawana","company":null,"email":"noman.bhavnagari@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:1:{i:10164;i:1;}","adults":"2","children":"2","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"337","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"36","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"40.00","cart_price":"360.00","total_extra_items_price":"320.00","total_price":"360.00","created":"2021-06-16 07:36:29","woo_order_id":"10446","woo_status":"processing","adults_info":"[{\"first_adult_name\":\"Maulik\",\"last_adult_name\":\"Makawana\"},{\"first_adult_name\":\"Trushal\",\"last_adult_name\":\"Makawana\"}]","children_info":"[{\"first_child_name\":\"Bhaumisha\",\"last_child_name\":\"Patel\"},{\"first_child_name\":\"Twinkal\",\"last_child_name\":\"Koradiya\"}]","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=600&first_name=Maulik&last_name=Makawana&company=&email=noman.bhavnagari%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A1%3A%7Bi%3A10164%3Bi%3A1%3B%7D&adults=2&children=2&cruise_id=76&wp_cruise_id=8654&cabin_type_id=337&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=36&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=40.00&cart_price=360.00&total_extra_items_price=320.00&total_price=360.00&created=2021-06-16%2007%3A36%3A29&woo_order_id=10446&woo_status=processing&adults_info=[{\%22first_adult_name\%22:\%22Maulik\%22,\%22last_adult_name\%22:\%22Makawana\%22},{\%22first_adult_name\%22:\%22Trushal\%22,\%22last_adult_name\%22:\%22Makawana\%22}]&children_info=[{\%22first_child_name\%22:\%22Bhaumisha\%22,\%22last_child_name\%22:\%22Patel\%22},{\%22first_child_name\%22:\%22Twinkal\%22,\%22last_child_name\%22:\%22Koradiya\%22}]&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundaryDRepYrZYLFiUTiQ0
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   4b4f84f2-cbf3-4101-1256-206220016cb4
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"600","first_name":"Maulik","last_name":"Makawana","company":null,"email":"noman.bhavnagari@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:1:{i:10164;i:1;}","adults":"2","children":"2","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"337","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"36","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"40.00","cart_price":"360.00","total_extra_items_price":"320.00","total_price":"360.00","created":"2021-06-16 07:36:29","woo_order_id":"10446","woo_status":"processing","adults_info":"[{\\\"first_adult_name\\\":\\\"Maulik\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"},{\\\"first_adult_name\\\":\\\"Trushal\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"}]","children_info":"[{\\\"first_child_name\\\":\\\"Bhaumisha\\\",\\\"last_child_name\\\":\\\"Patel\\\"},{\\\"first_child_name\\\":\\\"Twinkal\\\",\\\"last_child_name\\\":\\\"Koradiya\\\"}]","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=600&first_name=Maulik&last_name=Makawana&company=&email=noman.bhavnagari%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A1%3A%7Bi%3A10164%3Bi%3A1%3B%7D&adults=2&children=2&cruise_id=76&wp_cruise_id=8654&cabin_type_id=337&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=36&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=40.00&cart_price=360.00&total_extra_items_price=320.00&total_price=360.00&created=2021-06-16%2007%3A36%3A29&woo_order_id=10446&woo_status=processing&adults_info=[{\%22first_adult_name\%22:\%22Maulik\%22,\%22last_adult_name\%22:\%22Makawana\%22},{\%22first_adult_name\%22:\%22Trushal\%22,\%22last_adult_name\%22:\%22Makawana\%22}]&children_info=[{\%22first_child_name\%22:\%22Bhaumisha\%22,\%22last_child_name\%22:\%22Patel\%22},{\%22first_child_name\%22:\%22Twinkal\%22,\%22last_child_name\%22:\%22Koradiya\%22}]&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundarybXj0FyRROdBKgQOq
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   fe2736e2-4bff-3395-76e2-a4a0d62607e9
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"600","first_name":"Maulik","last_name":"Makawana","company":null,"email":"noman.bhavnagari@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:1:{i:10164;i:1;}","adults":"2","children":"2","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"337","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"36","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"40.00","cart_price":"360.00","total_extra_items_price":"320.00","total_price":"360.00","created":"2021-06-16 07:36:29","woo_order_id":"10446","woo_status":"processing","adults_info":"[{\\\"first_adult_name\\\":\\\"Maulik\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"},{\\\"first_adult_name\\\":\\\"Trushal\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"}]","children_info":"[{\\\"first_child_name\\\":\\\"Bhaumisha\\\",\\\"last_child_name\\\":\\\"Patel\\\"},{\\\"first_child_name\\\":\\\"Twinkal\\\",\\\"last_child_name\\\":\\\"Koradiya\\\"}]","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /mini_cruise/api/cruiseBooking?book_id=600&first_name=Maulik&last_name=Makawana&company=&email=noman.bhavnagari%40iflair.com&phone=9898989898&address=&address_2=&town=&zip=&state=RM&country=IT&special_requirements=&other_fields=a%3A0%3A%7B%7D&extra_items=a%3A1%3A%7Bi%3A10164%3Bi%3A1%3B%7D&adults=2&children=2&cruise_id=76&wp_cruise_id=8654&cabin_type_id=337&wp_cabin_id=8655&cabin_name=Tet-Test%202022&cabin_count=1&cruise_date=2021-06-28%2000%3A00%3A00&user_id=36&total_price_adults=0.00&total_price_children=0.00&total_cruise_price=40.00&cart_price=360.00&total_extra_items_price=320.00&total_price=360.00&created=2021-06-16%2007%3A36%3A29&woo_order_id=10446&woo_status=processing&adults_info=[{\%22first_adult_name\%22:\%22Maulik\%22,\%22last_adult_name\%22:\%22Makawana\%22},{\%22first_adult_name\%22:\%22Trushal\%22,\%22last_adult_name\%22:\%22Makawana\%22}]&children_info=[{\%22first_child_name\%22:\%22Bhaumisha\%22,\%22last_child_name\%22:\%22Patel\%22},{\%22first_child_name\%22:\%22Twinkal\%22,\%22last_child_name\%22:\%22Koradiya\%22}]&cart_key=797cebe370c06fc6e228d293495b1a4e&woo_mini_cname=&woo_mini_vat_no= HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  44
+Content-Type:    multipart/form-data; boundary=----WebKitFormBoundary3DzP5QaWosMK7KBZ
+Host:            192.168.1.68
+Origin:          chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop
+Postman-Token:   15e493ef-9b02-ef60-bbfe-3be1f660e984
+User-Agent:      Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36
+
+Request-Json : {"book_id":"600","first_name":"Maulik","last_name":"Makawana","company":null,"email":"noman.bhavnagari@iflair.com","phone":"9898989898","address":null,"address_2":null,"town":null,"zip":null,"state":"RM","country":"IT","special_requirements":null,"other_fields":"a:0:{}","extra_items":"a:1:{i:10164;i:1;}","adults":"2","children":"2","cruise_id":"76","wp_cruise_id":"8654","cabin_type_id":"337","wp_cabin_id":"8655","cabin_name":"Tet-Test 2022","cabin_count":"1","cruise_date":"2021-06-28 00:00:00","user_id":"36","total_price_adults":"0.00","total_price_children":"0.00","total_cruise_price":"40.00","cart_price":"360.00","total_extra_items_price":"320.00","total_price":"360.00","created":"2021-06-16 07:36:29","woo_order_id":"10446","woo_status":"processing","adults_info":"[{\\\"first_adult_name\\\":\\\"Maulik\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"},{\\\"first_adult_name\\\":\\\"Trushal\\\",\\\"last_adult_name\\\":\\\"Makawana\\\"}]","children_info":"[{\\\"first_child_name\\\":\\\"Bhaumisha\\\",\\\"last_child_name\\\":\\\"Patel\\\"},{\\\"first_child_name\\\":\\\"Twinkal\\\",\\\"last_child_name\\\":\\\"Koradiya\\\"}]","cart_key":"797cebe370c06fc6e228d293495b1a4e","woo_mini_cname":null,"woo_mini_vat_no":null}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=admin@gmail.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8000
+Postman-Token:   9eb9b678-b1d5-4fb2-9974-9f728efa89ec
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"admin@gmail.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8000
+Postman-Token:   ae062a01-0810-41ee-bca9-a41075008a0f
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8000
+Postman-Token:   a61ab922-8e71-4dd5-9a3d-6f2707489738
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8000
+Postman-Token:   4c408116-092c-40ca-8528-626080a7de58
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   e27a6f00-1b52-4e8c-9d88-64722388d2e2
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   5c6b178f-f0e9-46ce-934d-67669a305be2
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   a71d722a-deab-4599-9c38-cfb55915cc59
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   2dd06a4b-51b2-4c58-a76c-74c3cb890fbb
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   9a95e1e0-344c-4799-a911-5d9bf6184753
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   dbc4e54d-83c1-4345-bc7a-11ab31448815
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   786d2207-3092-446f-ab84-ff80b1f0b852
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=uperadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   1203e0fb-1f3d-4108-bb7f-7b4219c5c297
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"uperadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   8651a149-f176-436b-a64e-3afecc44ec4a
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   762aa56b-c878-40aa-b54e-ad735a151cae
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=admin@gmail.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   5f8304b4-092c-447a-b571-0df5336b6e47
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"admin@gmail.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8001
+Postman-Token:   09cf9705-7495-471e-a5e6-10a607f80e08
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Authorization:   bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTRhNDg3MGIxMmZiYWYzYzQ2ZDM1MjIwOThiYjk5ZTg3MzQ5YWEwNzc2ZDZlYzJlMTNhZmI2MjNjOWI4NGU0NDNlYWMxMzQyMzc2NDkwOTEiLCJpYXQiOjE2MzAxNDg5ODYsIm5iZiI6MTYzMDE0ODk4NiwiZXhwIjoxNjYxNjg0OTg2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.C0wLNSAb2RDhy22MonftJiGpSt_4LVabWiBQLW4Nz4UITUVwgVGk7MhuEBk52S2XLbsFLUIWdxE1tAoFO9MEGZuJ1kd02lwiHF3Irg5lFlfkOuzhykTNa6z_hXC9kyo91GxgUvJK9c22z_kkbATeAGHQ0eDv3bj3BKiOEVIjGvj8VokFZXclMdkHIlCy6Mj7DHhuHrxCG341AzCuFe0M7X6JIlxivy4U3rD-vg_e3Xdlobe6RmirdxQupPbc8ogNNqIiEfsTV7MDf_omXAVClCA4m3VIgoipzfCWAcEz-z-td8N1PFGJNkYWL0iKRRkMbtgOEcYeksK5493rVenY7q1CimC52rrJbb_MHNP_O2B-pMAnkVoRgiPAIThckdMgYtcTiybzizsd2mw5RC6oFwtC2zqr4agaXsSUGbjio52V15yogfi4FmaYSDQzF9FE3XV2ze8XNflc75uO73UXwyWnsjLU1K_nU5uD9pK-THwQUSJB9UgTArAwERkH63-aK-eidJ8zqaGLa3m3B1EQKVH4xB5EDLSanM6n_5FSzQoCFSCMcts8JpT0DCjiWb6DCQR0ODOWrn6lWOpNPXUQOT9DZnGc6tEkwEFh2SaDsE1LIVEvrfTKHyK2TzPIXKY2dxrGRBg0kLOIps-2EgpWACe5E3bYXG3r2uJpE383asY
+Connection:      keep-alive
+Content-Length:  0
+Cookie:          XSRF-TOKEN=eyJpdiI6IllURytnMWxka3ZpUlp5SjJQVWJWZ1E9PSIsInZhbHVlIjoiSEpwK2ppcTZ4cmhZMWZnZ3NwYkNkWm5uU09SQ1M5MDZIeHMrOTBJdmRxUjJ5bWNsWUZvY2NHMThSOXJZQnF3YTc3eUVXYkxMOE1DNjNKTmt2T1pkak9TWDZzUUZiM1hFZEVjd0dzakROcmI0VGhtOGtQeXUyMHhWYzd6NThHcTYiLCJtYWMiOiJlMGRhNGVkMjQxMmEwOGIyMDdkOGM5MWUwYzVlNTU5MDM5ZWM1ZWJjOWM0NDhmMTUxMmFjODFhNWM5Y2I1MjE5In0%3D; laravel_session=eyJpdiI6IkJSWitUbVQ0bk1ETFovSlZEcG96TXc9PSIsInZhbHVlIjoia3JaSHBqVG1XMXFPL0Uya1d5NEIxV2UwUDhwd2JBbjFIa0FDUThrb2ZhOW0rRDVuQi9iZHNFMVRsUzFvQW14ckFQS05ydmdjeW1yRHNxOUlOVGFrbGEvRytoY2xmZEpjdkVyS1lJRjhQTGVib1B0ZDM3SjFBQlpTQzU2a2tZaUsiLCJtYWMiOiJhYmM5NWM3NjZmMjIwODM5Njk5OTI5Zjg5NDJkYzVkMDVjNWNmOTQ4NDAxMTQ5NmU0ZmQ3MWM0M2EzZTI1ZTYxIn0%3D
+Host:            127.0.0.1:8001
+Postman-Token:   7afc0cce-97ae-41ec-b283-bbc0c61d0c7c
+User-Agent:      PostmanRuntime/7.26.8
+Cookie: XSRF-TOKEN=eyJpdiI6IllURytnMWxka3ZpUlp5SjJQVWJWZ1E9PSIsInZhbHVlIjoiSEpwK2ppcTZ4cmhZMWZnZ3NwYkNkWm5uU09SQ1M5MDZIeHMrOTBJdmRxUjJ5bWNsWUZvY2NHMThSOXJZQnF3YTc3eUVXYkxMOE1DNjNKTmt2T1pkak9TWDZzUUZiM1hFZEVjd0dzakROcmI0VGhtOGtQeXUyMHhWYzd6NThHcTYiLCJtYWMiOiJlMGRhNGVkMjQxMmEwOGIyMDdkOGM5MWUwYzVlNTU5MDM5ZWM1ZWJjOWM0NDhmMTUxMmFjODFhNWM5Y2I1MjE5In0=; laravel_session=eyJpdiI6IkJSWitUbVQ0bk1ETFovSlZEcG96TXc9PSIsInZhbHVlIjoia3JaSHBqVG1XMXFPL0Uya1d5NEIxV2UwUDhwd2JBbjFIa0FDUThrb2ZhOW0rRDVuQi9iZHNFMVRsUzFvQW14ckFQS05ydmdjeW1yRHNxOUlOVGFrbGEvRytoY2xmZEpjdkVyS1lJRjhQTGVib1B0ZDM3SjFBQlpTQzU2a2tZaUsiLCJtYWMiOiJhYmM5NWM3NjZmMjIwODM5Njk5OTI5Zjg5NDJkYzVkMDVjNWNmOTQ4NDAxMTQ5NmU0ZmQ3MWM0M2EzZTI1ZTYxIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Authorization:   bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTRhNDg3MGIxMmZiYWYzYzQ2ZDM1MjIwOThiYjk5ZTg3MzQ5YWEwNzc2ZDZlYzJlMTNhZmI2MjNjOWI4NGU0NDNlYWMxMzQyMzc2NDkwOTEiLCJpYXQiOjE2MzAxNDg5ODYsIm5iZiI6MTYzMDE0ODk4NiwiZXhwIjoxNjYxNjg0OTg2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.C0wLNSAb2RDhy22MonftJiGpSt_4LVabWiBQLW4Nz4UITUVwgVGk7MhuEBk52S2XLbsFLUIWdxE1tAoFO9MEGZuJ1kd02lwiHF3Irg5lFlfkOuzhykTNa6z_hXC9kyo91GxgUvJK9c22z_kkbATeAGHQ0eDv3bj3BKiOEVIjGvj8VokFZXclMdkHIlCy6Mj7DHhuHrxCG341AzCuFe0M7X6JIlxivy4U3rD-vg_e3Xdlobe6RmirdxQupPbc8ogNNqIiEfsTV7MDf_omXAVClCA4m3VIgoipzfCWAcEz-z-td8N1PFGJNkYWL0iKRRkMbtgOEcYeksK5493rVenY7q1CimC52rrJbb_MHNP_O2B-pMAnkVoRgiPAIThckdMgYtcTiybzizsd2mw5RC6oFwtC2zqr4agaXsSUGbjio52V15yogfi4FmaYSDQzF9FE3XV2ze8XNflc75uO73UXwyWnsjLU1K_nU5uD9pK-THwQUSJB9UgTArAwERkH63-aK-eidJ8zqaGLa3m3B1EQKVH4xB5EDLSanM6n_5FSzQoCFSCMcts8JpT0DCjiWb6DCQR0ODOWrn6lWOpNPXUQOT9DZnGc6tEkwEFh2SaDsE1LIVEvrfTKHyK2TzPIXKY2dxrGRBg0kLOIps-2EgpWACe5E3bYXG3r2uJpE383asY
+Connection:      keep-alive
+Content-Length:  0
+Cookie:          XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Host:            127.0.0.1:8001
+Postman-Token:   ce11ad71-b504-429b-ab55-342f09956e7e
+User-Agent:      PostmanRuntime/7.26.8
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Authorization:   Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTRhNDg3MGIxMmZiYWYzYzQ2ZDM1MjIwOThiYjk5ZTg3MzQ5YWEwNzc2ZDZlYzJlMTNhZmI2MjNjOWI4NGU0NDNlYWMxMzQyMzc2NDkwOTEiLCJpYXQiOjE2MzAxNDg5ODYsIm5iZiI6MTYzMDE0ODk4NiwiZXhwIjoxNjYxNjg0OTg2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.C0wLNSAb2RDhy22MonftJiGpSt_4LVabWiBQLW4Nz4UITUVwgVGk7MhuEBk52S2XLbsFLUIWdxE1tAoFO9MEGZuJ1kd02lwiHF3Irg5lFlfkOuzhykTNa6z_hXC9kyo91GxgUvJK9c22z_kkbATeAGHQ0eDv3bj3BKiOEVIjGvj8VokFZXclMdkHIlCy6Mj7DHhuHrxCG341AzCuFe0M7X6JIlxivy4U3rD-vg_e3Xdlobe6RmirdxQupPbc8ogNNqIiEfsTV7MDf_omXAVClCA4m3VIgoipzfCWAcEz-z-td8N1PFGJNkYWL0iKRRkMbtgOEcYeksK5493rVenY7q1CimC52rrJbb_MHNP_O2B-pMAnkVoRgiPAIThckdMgYtcTiybzizsd2mw5RC6oFwtC2zqr4agaXsSUGbjio52V15yogfi4FmaYSDQzF9FE3XV2ze8XNflc75uO73UXwyWnsjLU1K_nU5uD9pK-THwQUSJB9UgTArAwERkH63-aK-eidJ8zqaGLa3m3B1EQKVH4xB5EDLSanM6n_5FSzQoCFSCMcts8JpT0DCjiWb6DCQR0ODOWrn6lWOpNPXUQOT9DZnGc6tEkwEFh2SaDsE1LIVEvrfTKHyK2TzPIXKY2dxrGRBg0kLOIps-2EgpWACe5E3bYXG3r2uJpE383asY
+Connection:      keep-alive
+Content-Length:  0
+Cookie:          XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Host:            127.0.0.1:8001
+Postman-Token:   a8b6180b-9088-4e74-8903-7f179f2b6e8d
+User-Agent:      PostmanRuntime/7.26.8
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Authorization:   Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTRhNDg3MGIxMmZiYWYzYzQ2ZDM1MjIwOThiYjk5ZTg3MzQ5YWEwNzc2ZDZlYzJlMTNhZmI2MjNjOWI4NGU0NDNlYWMxMzQyMzc2NDkwOTEiLCJpYXQiOjE2MzAxNDg5ODYsIm5iZiI6MTYzMDE0ODk4NiwiZXhwIjoxNjYxNjg0OTg2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.C0wLNSAb2RDhy22MonftJiGpSt_4LVabWiBQLW4Nz4UITUVwgVGk7MhuEBk52S2XLbsFLUIWdxE1tAoFO9MEGZuJ1kd02lwiHF3Irg5lFlfkOuzhykTNa6z_hXC9kyo91GxgUvJK9c22z_kkbATeAGHQ0eDv3bj3BKiOEVIjGvj8VokFZXclMdkHIlCy6Mj7DHhuHrxCG341AzCuFe0M7X6JIlxivy4U3rD-vg_e3Xdlobe6RmirdxQupPbc8ogNNqIiEfsTV7MDf_omXAVClCA4m3VIgoipzfCWAcEz-z-td8N1PFGJNkYWL0iKRRkMbtgOEcYeksK5493rVenY7q1CimC52rrJbb_MHNP_O2B-pMAnkVoRgiPAIThckdMgYtcTiybzizsd2mw5RC6oFwtC2zqr4agaXsSUGbjio52V15yogfi4FmaYSDQzF9FE3XV2ze8XNflc75uO73UXwyWnsjLU1K_nU5uD9pK-THwQUSJB9UgTArAwERkH63-aK-eidJ8zqaGLa3m3B1EQKVH4xB5EDLSanM6n_5FSzQoCFSCMcts8JpT0DCjiWb6DCQR0ODOWrn6lWOpNPXUQOT9DZnGc6tEkwEFh2SaDsE1LIVEvrfTKHyK2TzPIXKY2dxrGRBg0kLOIps-2EgpWACe5E3bYXG3r2uJpE383asY
+Connection:      keep-alive
+Content-Length:  0
+Content-Type:    application/json
+Cookie:          XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Host:            127.0.0.1:8001
+Postman-Token:   15840512-398c-4478-ae4d-32510baf5d56
+User-Agent:      PostmanRuntime/7.26.8
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTRhNDg3MGIxMmZiYWYzYzQ2ZDM1MjIwOThiYjk5ZTg3MzQ5YWEwNzc2ZDZlYzJlMTNhZmI2MjNjOWI4NGU0NDNlYWMxMzQyMzc2NDkwOTEiLCJpYXQiOjE2MzAxNDg5ODYsIm5iZiI6MTYzMDE0ODk4NiwiZXhwIjoxNjYxNjg0OTg2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.C0wLNSAb2RDhy22MonftJiGpSt_4LVabWiBQLW4Nz4UITUVwgVGk7MhuEBk52S2XLbsFLUIWdxE1tAoFO9MEGZuJ1kd02lwiHF3Irg5lFlfkOuzhykTNa6z_hXC9kyo91GxgUvJK9c22z_kkbATeAGHQ0eDv3bj3BKiOEVIjGvj8VokFZXclMdkHIlCy6Mj7DHhuHrxCG341AzCuFe0M7X6JIlxivy4U3rD-vg_e3Xdlobe6RmirdxQupPbc8ogNNqIiEfsTV7MDf_omXAVClCA4m3VIgoipzfCWAcEz-z-td8N1PFGJNkYWL0iKRRkMbtgOEcYeksK5493rVenY7q1CimC52rrJbb_MHNP_O2B-pMAnkVoRgiPAIThckdMgYtcTiybzizsd2mw5RC6oFwtC2zqr4agaXsSUGbjio52V15yogfi4FmaYSDQzF9FE3XV2ze8XNflc75uO73UXwyWnsjLU1K_nU5uD9pK-THwQUSJB9UgTArAwERkH63-aK-eidJ8zqaGLa3m3B1EQKVH4xB5EDLSanM6n_5FSzQoCFSCMcts8JpT0DCjiWb6DCQR0ODOWrn6lWOpNPXUQOT9DZnGc6tEkwEFh2SaDsE1LIVEvrfTKHyK2TzPIXKY2dxrGRBg0kLOIps-2EgpWACe5E3bYXG3r2uJpE383asY
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: a8e648fb-ede6-4a3f-b9f8-05957eb7e245
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiMTRhNDg3MGIxMmZiYWYzYzQ2ZDM1MjIwOThiYjk5ZTg3MzQ5YWEwNzc2ZDZlYzJlMTNhZmI2MjNjOWI4NGU0NDNlYWMxMzQyMzc2NDkwOTEiLCJpYXQiOjE2MzAxNDg5ODYsIm5iZiI6MTYzMDE0ODk4NiwiZXhwIjoxNjYxNjg0OTg2LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.C0wLNSAb2RDhy22MonftJiGpSt_4LVabWiBQLW4Nz4UITUVwgVGk7MhuEBk52S2XLbsFLUIWdxE1tAoFO9MEGZuJ1kd02lwiHF3Irg5lFlfkOuzhykTNa6z_hXC9kyo91GxgUvJK9c22z_kkbATeAGHQ0eDv3bj3BKiOEVIjGvj8VokFZXclMdkHIlCy6Mj7DHhuHrxCG341AzCuFe0M7X6JIlxivy4U3rD-vg_e3Xdlobe6RmirdxQupPbc8ogNNqIiEfsTV7MDf_omXAVClCA4m3VIgoipzfCWAcEz-z-td8N1PFGJNkYWL0iKRRkMbtgOEcYeksK5493rVenY7q1CimC52rrJbb_MHNP_O2B-pMAnkVoRgiPAIThckdMgYtcTiybzizsd2mw5RC6oFwtC2zqr4agaXsSUGbjio52V15yogfi4FmaYSDQzF9FE3XV2ze8XNflc75uO73UXwyWnsjLU1K_nU5uD9pK-THwQUSJB9UgTArAwERkH63-aK-eidJ8zqaGLa3m3B1EQKVH4xB5EDLSanM6n_5FSzQoCFSCMcts8JpT0DCjiWb6DCQR0ODOWrn6lWOpNPXUQOT9DZnGc6tEkwEFh2SaDsE1LIVEvrfTKHyK2TzPIXKY2dxrGRBg0kLOIps-2EgpWACe5E3bYXG3r2uJpE383asY
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: eee32a6b-ce54-4939-ba96-f8fd59805d41
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Cookie:          XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Host:            127.0.0.1:8001
+Postman-Token:   9b387a51-c9ee-42e0-b4cd-34d417a112ab
+User-Agent:      PostmanRuntime/7.26.8
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: a6094fef-6fed-4787-9fcc-593915cc4ae8
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: dc0e434e-77cc-420f-aa1e-9ea8951264ec
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Token eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: 64b5113e-8c0a-45c1-bbdd-1a55a8692d0e
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: b57ee1c8-fd92-474d-8985-775bbebbd81e
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer 111eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: 6eaebb28-8451-4c40-9b86-0022b94c1378
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer 111eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: 188cc407-f35c-4520-9adf-651800d2ffff
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: 4991cf7c-4d63-4e2c-be65-de6a728c60c7
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=checklogin HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Content-Type:  application/json
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: dd124d0f-b416-4def-9b4b-2f9d4b4676c2
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"checklogin"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDY2YmI0NjZiMzZiMDk4OTE4NDlmODg5YTFiNjcyNmUxZWI3YzZiYzVlNGY5NWE2ZDcwZGU4OTczY2VjNGZhYzY0ZTMyNDYwNzExYzdlZTkiLCJpYXQiOjE2MzAxNDk4NDUsIm5iZiI6MTYzMDE0OTg0NSwiZXhwIjoxNjYxNjg1ODQ1LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.VanlTaT3OS5Kx7ZVIEZ2MoQrmnr2x93_1SBltS1CRwaC5qIbZ1vPEocERJyrQlLIv7U4kDhwXNpFDYhfJyPi_k07X0vy1ZN9vGHeHviLcYf6BFU2sNuSh71Mn6WK0UMaZ1uWxqmODJZD4GG2Kz2dXmn01xPsUvBpfxMSNUSHvEGoxKP6yoVTnwlZJfeODIy8t00L3quNIwhtUbA8_m7bNiNwYoo13kJv3mEwZMyDfRgaVNiEunzwnaGKmxQ_msr2y4Y1kUl8uqXStwbqVt2dDwuWfJ7mgKXQskPbOxCCcgqada4uHBcbcHVpv-OMD_tg8_TzSTyiJ2LqUa3JHbunctS9qbXvrtvnArfZ6o2eN_wQHFYWsyF-ap_9aWDqkSDFq1ktFpTDymp1AyZ5GvYc_xsv39jMh9POT2yYgPZhiEMJGhpMzF6pQIvPigBD0KEO6Isbujc2H22WYOl-PMjJLSP9Lg96_1dZuLXTDMITFibFumTmpGFwuJn3hgtlgeK9y9ROPLcIepP933guc_VD8Do3Yk1345f89lDmZe-vX6ROrh0DTFPMyl2cJTcoZZn_ilSlFmQ1b9l9_EP6HMjvdYs0wFdBqIfIrhuIqX4EfizsRBxK08g0SLzXdE5NHInjMlhrYKIvdbscXmpB6GEN6hnaWUHGQJGU2L_tYuLHr5Y
+Cookie:        XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0%3D; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0%3D
+Postman-Token: b0e4a1ea-14f0-46b8-8133-b2282a7fcf7d
+Cookie: XSRF-TOKEN=eyJpdiI6InU3VFgydFVjQmJWUzRoT3BrMXNzY2c9PSIsInZhbHVlIjoiY1BDcDBBM3RXWk9JdnE3YlVkYTdURHhOL09wZ1RUTHB2NC8zVGlsbmt1NXZTdkgrRkxXcmwxNlhiVjFqS3lxMG9tK0l3MHUyUXp0NGtSY1dEOVptTFFraUN5azEyQy85MTFRU2Z2aUk1dmsydndIVFphOHpNcEZQRjdnREFEUVYiLCJtYWMiOiI4NjU4MmVlZjllY2Q5NTc5ZTBmMTFkMGZmN2QyODk3MmI5NWNiMjZiMjA3YzJmNzAzMzQ5ZWJkYmNhMmFjMzhmIn0=; laravel_session=eyJpdiI6ImZmd3Nib0pUS3N3RTNqRlhZSmM5bXc9PSIsInZhbHVlIjoiTWhjWE45ZTEwTmZ1Q2hKUGQ4Z0V2SWltcERSYlQ3UDJHVkxSVktud05mQTIrK3ZTL2JZdUVpM0tMVDlVRzhmS3VYVmQ4dzc4bzRJM1VtMTNiOE5VR2hnUzVhU1lMeElEREpVRmU2Q3FxY0tVMzN2YUc2bEx4aTB5TzNjbERPWm8iLCJtYWMiOiJlNjRiMDc0YWE3ZDY2NjAzYzMyZjMyZTA5ODI4OWM3NTU3NzRiODI4YWRhMmUxMzljNjUwYTBlMGZmMjY0NTkyIn0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=login&email=superadmin@admin.com&password=superadmin@1234 HTTP/1.1
+Accept:          */*
+Accept-Encoding: gzip, deflate, br
+Connection:      keep-alive
+Content-Length:  0
+Host:            127.0.0.1:8000
+Postman-Token:   17a7fa21-0c53-4438-b44b-bf2376e751e6
+User-Agent:      PostmanRuntime/7.26.8
+
+Request-Json : {"action":"login","email":"superadmin@admin.com","password":"superadmin@1234"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 96755004-f758-49fe-b50c-f02e9df1bfc2
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 8cd62927-aa9a-4161-a2f7-ffe75f98af47
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 13f06f8b-d84b-4d39-9e3c-37620f6eb9df
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 464c102d-e95a-4530-84f9-c38611cedcbb
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 44722d86-dee1-454a-a7ad-94d116b2f922
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 3128b75b-7997-41b6-a841-d819ec28f70d
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: a1521d0a-91fc-41e6-8a43-1c4901908923
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 8e415e72-db1d-4c39-aa05-f5b23c2bc8b4
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 0e361c77-569b-441d-8b48-01c31c868c4c
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: e7f06d6f-6d19-49f9-8b55-a69a4f83d68e
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: d8c68fa8-9c42-4153-aaae-a7a4c3b14d69
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 206e47f0-e757-4cac-8509-fa27619f8112
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: b0470206-6255-4a5a-9624-3029ac9b0f4b
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 750848d1-e55e-4b3c-ac9b-c39459a65879
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: cd7a865c-86d0-4c64-b042-157fa1d5e556
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Postman-Token: 4b010463-4998-4fde-89ec-b1786e6e718c
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 78f4a552-6199-41ba-9fd1-83c8c1f93895
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: f3bb8cc9-8d4a-4ff0-a1ff-ab5470e25d02
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 36e145cc-ffb7-4308-99f9-1c10efd7dad0
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: f56286ac-06fd-4b46-a89a-c4d5c2d26ab6
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 967723dd-70b0-458e-a9b7-37645fd6ffd7
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 78d9fc00-6e6e-49e0-91f7-d59c929173e7
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 9e628400-700c-4960-b0a7-9c682d5a2da8
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: dda77570-e55c-401c-9f34-9807c7d68a06
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 396e0fc2-b8af-49a4-8647-194d71b400d6
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------
+
+----------------------------------------------------
+        
+POST /api/v1/globalaction?action=agentDetails& HTTP/1.1
+Accept:        application/json
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiZDhmMTY0YTRjYWIyZjg0NGU4YjdlODBlYjY5YTk1ZGY5ZjVlYmY1Mzc3ZTQxNTBjYzY5MGE2ZDMxOTc1YmQ5YjRiNmZmOTVkMjhjZWU2NTMiLCJpYXQiOjE2MzAzOTAxMTgsIm5iZiI6MTYzMDM5MDExOCwiZXhwIjoxNjYxOTI2MTE4LCJzdWIiOiIxIiwic2NvcGVzIjpbXX0.Dwoutv-qbTd-PgB42F3hYD-Ux7UzJSjuvAxoLogRxl0dwzWIpbODuHdpVp57hAgMDh7AtPVb05M5CsjrjGGxzRMtwL_bG0xpOIMVyV8FtpAmWAq3FOknxRnWgZDMNegKUP7sFnY2AzasOHZnCnSaO-H3uMkw21dkK0dQKtYmsJ9NNVTNJcW57rEWDlC-DksYfk4lvplYs23HrwF94aup0yFyGzQBU4030rTcbNibJ-eK3fG8dL7s24iys-UXYL-wUh4DN2t_CAQDbTgOC3NyiWxq8HnJ3zHOvkJ3v0rnZYFbb3U2AiFbPGIf8b0mJeu6Ea3iKzG5u_4OdQY9usTtlwSeELP7jrAZBlSmj15M8IfWZV73Xh-hBve8t1nhtkwy3N_aqzHT7_c83Ghk5_aXtYu7UWgxOPz79Rr8igQa-dxVug6yUewk_f7FrvtQiW8xHocgMi8NOBzXqMaFBQCJ41madQx3WaFAQkDhi5PCcRMA9aUGW4CfO8uYrH1WH4rzab5SY7HNcpX2B6pcG28ux981DOlH99nGMNVRroY6CK1cfU58QgnIATP69PZfT7cOv44SJFdecHdiwg44ogf-LSGFS9Ldntq0MSFDpoztSPGc6ErtEpve44X407G4G0nfEHYO8RLa96Wwwlpa29EbeOVaSc2W1Jexu-JsFbZ8epY
+Cookie:        XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0%3D; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0%3D
+Postman-Token: 52c44448-7993-4870-a917-ccddbe3d0adc
+Cookie: XSRF-TOKEN=eyJpdiI6IktxREVHWjJ5R2VFZnRwaXcxczNwWlE9PSIsInZhbHVlIjoiaHJOazJRMHdHcHJZTzBSUk4xd2hJMGVBMTMzcUw3QnlleHpLT0ZncVljMnF1K3l6Z0RBcmhxNUFOQ2E2L29WWUxMSEEyYndQKzI3VkVqc0MwN2E3U1BsMGJ0NzZHRlFwZ1NSMHpHYjhTMVFOcWhYL2o5U2NxN0N6ajNIL1RUMGsiLCJtYWMiOiJlZjlkZDE3NWZhNWMxY2FjMzkxMDg2MzVmYTNmNjA2M2UyMzYxOGEzNDM1ZmU1ZTg0MDEyNWRlMzllMDYxMjQ5In0=; laravel_session=eyJpdiI6IlFxOUh0U0dVOXdzWWlLaDFhSW1aL0E9PSIsInZhbHVlIjoibStraUtkaSs2c3JEd1lMNW5PbU5Na3Y3RDlydmVyQlkvMGtrc0pmTjNpeEljRFk4MHF2THhONW1lQ2REdUFkR0JaQ3FuVXBEU3h0cmUyZFVqZUxwQUo4Ui9FZ0hCNkkzdnVRdTJoUGpEcmlUUUh1ZG1tbG9KV2VYY3F6RTV3NFYiLCJtYWMiOiI1MTE0YjI0OGM5ODczOTI5MDEzZThjNzgyMjM2YmYwNzY4MmU3YWI1NGE5MjRiYTI0ODgxZDc4YjczOGFmOWU1In0=
+
+Request-Json : {"action":"agentDetails"}
+----------------------------------------------------

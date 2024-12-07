@@ -1,0 +1,46 @@
+[6620:5340:2022-9-28 21:15:38.199] Main Start
+[6620:5340:2022-9-28 21:15:38.199] Command line:"C:\Users\asd\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mAmKvi9HBw1PavejcDZn6ANlUzy7z5eZt-QXB@E0VgBAjq26qBA8BA_k09007f0e7132a475_.exe"  Instance:0x11C0000 Show State:1
+[6620:5340:2022-9-28 21:15:38.242] C:\
+[6620:1152:2022-9-28 21:15:38.314] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[6620:1152:2022-9-28 21:15:39.956] HttpSendRequest API failed1, error code: 12157
+[6620:1152:2022-9-28 21:15:41.530] HttpSendRequest API failed, error code: 12157
+[6620:1152:2022-9-28 21:15:41.531] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[6620:1152:2022-9-28 21:15:41.538] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[6620:1152:2022-9-28 21:15:43.20] HttpSendRequest API failed1, error code: 12157
+[6620:1152:2022-9-28 21:15:44.619] HttpSendRequest API failed, error code: 12157
+[6620:1152:2022-9-28 21:15:44.619] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[6620:5340:2022-9-28 21:15:44.664] [client_has_installed_app] found path:
+[6620:5340:2022-9-28 21:15:44.664]  ***NULL-POINTER-PLACEHOLDER***
+[6620:1152:2022-9-28 21:17:21.191] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[6620:1152:2022-9-28 21:17:22.831] HttpSendRequest API failed1, error code: 12157
+[6620:1152:2022-9-28 21:17:24.349] HttpSendRequest API failed, error code: 12157
+[6620:1152:2022-9-28 21:17:24.349] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[6620:5340:2022-9-28 21:17:24.374] [client_has_installed_app] found path:
+[6620:5340:2022-9-28 21:17:24.374]  ***NULL-POINTER-PLACEHOLDER***
+[6620:1152:2022-9-28 21:17:26.560] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[6620:1152:2022-9-28 21:17:28.82] HttpSendRequest API failed1, error code: 12157
+[6620:1152:2022-9-28 21:17:29.617] HttpSendRequest API failed, error code: 12157
+[6620:1152:2022-9-28 21:17:29.617] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[6620:5340:2022-9-28 21:17:29.680] [client_has_installed_app] found path:
+[6620:5340:2022-9-28 21:17:29.680]  ***NULL-POINTER-PLACEHOLDER***
+[6620:5340:2022-9-28 21:17:30.822] Main End
+[8672:9688:2022-9-28 21:18:31.552] Main Start
+[8672:9688:2022-9-28 21:18:31.553] Command line:"C:\Users\asd\Downloads\Zoom_cm_fo42mnktZ9vvrZo4_mHzTmqAE2OzAA4igqJA9pq8JcwcUFJIIetRQX@kRpgtIAL-KYT+aHh_k09007f0e7132a475_.exe"  Instance:0xC00000 Show State:1
+[8672:9688:2022-9-28 21:18:31.609] C:\
+[8672:6008:2022-9-28 21:18:31.697] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8672:6008:2022-9-28 21:18:33.343] HttpSendRequest API failed1, error code: 12157
+[8672:6008:2022-9-28 21:18:34.859] HttpSendRequest API failed, error code: 12157
+[8672:6008:2022-9-28 21:18:34.860] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8672:6008:2022-9-28 21:18:34.902] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8672:6008:2022-9-28 21:18:36.394] HttpSendRequest API failed1, error code: 12157
+[8672:6008:2022-9-28 21:18:37.924] HttpSendRequest API failed, error code: 12157
+[8672:6008:2022-9-28 21:18:37.924] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8672:9688:2022-9-28 21:18:37.968] [client_has_installed_app] found path:
+[8672:9688:2022-9-28 21:18:37.968]  ***NULL-POINTER-PLACEHOLDER***
+[8672:6008:2022-9-28 21:19:7.539] [process_requst] start, url:https://us05web.zoom.us/conf/launch
+[8672:6008:2022-9-28 21:19:9.300] HttpSendRequest API failed1, error code: 12157
+[8672:6008:2022-9-28 21:19:10.785] HttpSendRequest API failed, error code: 12157
+[8672:6008:2022-9-28 21:19:10.785] [process_requst] End for url:https://us05web.zoom.us/conf/launch, return code:0, Error:1006, Response content size:0
+[8672:9688:2022-9-28 21:19:10.850] [client_has_installed_app] found path:
+[8672:9688:2022-9-28 21:19:10.850]  ***NULL-POINTER-PLACEHOLDER***
+[8672:9688:2022-9-28 21:32:41.217] Main End
